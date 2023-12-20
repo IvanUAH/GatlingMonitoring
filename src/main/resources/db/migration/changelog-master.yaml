@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: db/migration/2023-07-05T13:22:25Z_changelog.xml
+  - include:
+      file: db/migration/2023-07-18T14:07:13Z_changelog.xml
+  - include:
+      file: db/migration/2023-08-11T07:02:20Z_changelog.xml
